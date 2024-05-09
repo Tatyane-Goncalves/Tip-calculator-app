@@ -20,7 +20,7 @@ Projeto retirado do [Frotend Mentor](https://www.frontendmentor.io/challenges/ti
 
 Para executar o aplicativo, basta abrir o arquivo index.html em um navegador da web compatível.
 
-[Ou clique ai e será direcionado ao site ativo]()
+[Ou clique ai e será direcionado ao site ativo](https://tatyane-goncalves.github.io/Tip-calculator-app/)
 
 ## Autor
 Este aplicativo foi desenvolvido por Tatyane Gonçalves.
